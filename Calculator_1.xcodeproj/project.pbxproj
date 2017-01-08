@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					AE4D0FCB1E08142A0060E1BE = {
 						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = 6TYWA89BPM;
 						ProvisioningStyle = Automatic;
 					};
 					AE4D0FDF1E08142A0060E1BE = {
@@ -410,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6TYWA89BPM;
 				INFOPLIST_FILE = Calculator_1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Docomo.Inc.Calculator-1";
@@ -423,6 +425,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6TYWA89BPM;
 				INFOPLIST_FILE = Calculator_1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Docomo.Inc.Calculator-1";
@@ -505,6 +508,7 @@
 				AE4D0FF61E08142B0060E1BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AE4D0FF71E08142B0060E1BE /* Build configuration list for PBXNativeTarget "Calculator_1Tests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +517,7 @@
 				AE4D0FF91E08142B0060E1BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AE4D0FFA1E08142B0060E1BE /* Build configuration list for PBXNativeTarget "Calculator_1UITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +526,7 @@
 				AE4D0FFC1E08142B0060E1BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
